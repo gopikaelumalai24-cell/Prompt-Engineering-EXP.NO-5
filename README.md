@@ -15,3 +15,4 @@ OUTPUT:
 [PROMPT EX 5.docx](https://github.com/user-attachments/files/28245407/PROMPT.EX.5.docx)
 
 RESULT: 
+ The output is verified successfully
